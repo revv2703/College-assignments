@@ -69,36 +69,36 @@
 **iostream Header File:**
 
 21. What does the #include <iostream> statement do in a C++ program?
-    - a. Imports input/output functions
+    - A) Imports input/output functions
 
 22. Which of the following is included in the iostream header file?
-    - a. cin and cout
+    - A) cin and cout
 
 23. What is the purpose of using the using namespace std; statement in C++?
-    - c. Specifies the standard C++ namespace
+    - C) Specifies the standard C++ namespace
 
 24. Which keyword is used to access entities from a namespace in C++?
-    - b. using
+    - B) using
 
 25. If you want to use the display() function from namespace A in your code, how would you achieve this?
-    - b. using A::display;
+    - B) using A::display;
 
 26. What is the purpose of the inline namespace feature in C++?
-    - a. Speeds up compilation by inlining functions
+    - A) Speeds up compilation by inlining functions
 
 **Formatted and Unformatted I/O Operations:**
 
 27. Which of the following is an example of formatted output in C++?
-    - a. cout << "Hello World";
+    - A) cout << "Hello World";
 
 28. What is the purpose of the endl manipulator in C++?
-    - a. Outputs a newline character and flushes the buffer
+    - A) Outputs a newline character and flushes the buffer
 
 29. Which function is used for unformatted input in C++?
-    - b. cin
+    - B) cin
 
 30. Which operator is used for unformatted output in C++?
-    - a. <<
+    - A) <<
 
 **Miscellaneous:**
 
